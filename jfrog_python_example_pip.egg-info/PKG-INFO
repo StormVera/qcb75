@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: jfrog-python-example-pip
+Version: 0.0.1
+Summary: Project example for building Python project with JFrog products
+Home-page: https://github.com/jfrog/project-examples
+Author: JFrog
+Author-email: jfrog@jfrog.com
+Requires-Dist: PyYAML>3.11
+Requires-Dist: nltk
